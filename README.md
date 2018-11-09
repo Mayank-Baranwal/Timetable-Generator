@@ -1,4 +1,4 @@
-# Timetable_Generator_Project
+# Timetable Generator Project
 Semi-Graphical interface to generate timetables automatically based on class and lab requirements. Class 12 Year end Project.
 
 ## How to Use
